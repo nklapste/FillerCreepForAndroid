@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
+    compileSdkVersion 28
 
     defaultConfig {
         applicationId "es.softwareprocess.fillercreep"
-        minSdkVersion 7
-        targetSdkVersion 7
+        minSdkVersion 14
+        targetSdkVersion 28
     }
 
     buildTypes {
